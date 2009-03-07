@@ -1,0 +1,14 @@
+[Group1]
+Programming = 1
+Documenting = 2
+Refactoring = 3
+Testwriting = 4
+
+[Group2]
+Lunch       = 5
+Emailing    = 6
+Procratinating =7
+
+[Group3]
+Holiday     = 8
+Sick leave  = 9
